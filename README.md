@@ -2,9 +2,10 @@
 Made using Power BI tool.
 
 # Dashboard
-<img href = "ss1.png"></img>
+![ss1](assets/ss1.png)
 <br></br>
-<img href = "ss2.png"></img>
+![ss2](assets/ss2.png)
+
 
 
 ## Support My Work :wink:
