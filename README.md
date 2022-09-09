@@ -2,9 +2,9 @@
 Made using Power BI tool.
 
 # Dashboard
-![ss1](assets/ss1.png)
+![ss1](ss1.png)
 <br></br>
-![ss2](assets/ss2.png)
+![ss2](ss2.png)
 
 
 
